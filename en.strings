@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ISTRINGTABLE ID="joomla" LANG="en">
+    <ISTRING>
+        <KEY>LANG_form_name</KEY>
+        <VALUE>Name</VALUE>
+    </ISTRING>
+    <ISTRING>
+        <KEY>LANG_form_email</KEY>
+        <VALUE>Email</VALUE>
+    </ISTRING>
+</ISTRINGTABLE>
